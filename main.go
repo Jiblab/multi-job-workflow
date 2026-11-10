@@ -11,6 +11,7 @@ type AWSRegion struct {
 }
 
 func main() {
+	//AWSAWS
 	// AWS regions in order from West to East
 	awsRegions := []AWSRegion{
 		// Americas
